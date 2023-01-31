@@ -11,10 +11,13 @@ lets go to the image
 
 In this table we will be seeing about three different countries about the reason of their visit and during of the stay in that particular country.
 
+-----
+
 | Country    | Reason for Visit| No of Days|
 |---------   | ----------------| ----------|
-| Iran       | Land scapes      2months   |
-| US         | Money           | 2months   |
-| UK         | Turism          | 1month    |
-|Switzerland | Climate         | 1month    |
------
+| Iran       | Land scapes     | 6months   |
+| India      | Food            | 3months   |
+| Bhutan     | Culture         | 9months   |
+| Japan      | Technology      | 1months   |
+
+----
