@@ -17,3 +17,23 @@ team that i think good to watch
 * Royal Challengers Bangalore
 * Sunrises Hyderabad
 * Kings XI Punjab
+
+----
+
+ # TABLES CREATION
+
+In this table we will be seeing about three different countries about the reason of their visit and during of the stay in that particular country.
+
+-----
+
+| Country    | Reason for Visit| No of Days|
+|---------   | ----------------| ----------|
+| Iran       | Land scapes     | 6months   |
+| India      | Food            | 3months   |
+| Bhutan     | Culture         | 9months   |
+| Japan      | Technology      | 1months   |
+
+----
+# Pithy Quotes
+>“Nobody reaches anywhere by believing.” ― ***Osho***
+>"A fool is known by his speech; and a wise man by Silence." - ***Pythagoras***
