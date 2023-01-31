@@ -12,3 +12,8 @@ Mumbai Indians is my favorite team
 1. Tim David
 2. Arjun Tendulkar 
 3. daniel sams
+
+team that i think good to watch
+* Royal Challengers Bangalore
+* Sunrises Hyderabad
+* Kings XI Punjab
